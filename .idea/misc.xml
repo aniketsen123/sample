@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable-v24/adjust_night.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/border.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/border_linearlayout.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/button_ripple_effect.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/convert.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/drawable/ic_baseline_insert_photo_24.xml" value="0.1905" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/activity_convert.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/bottomsheet.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/dialog_progress.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/image_items.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/layout/item_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/menu/menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/menu/menu2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/DocTool-UIVersion1.0/app/src/main/res/xml/file_paths.xml" value="0.1" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/adjust_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/convert_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/extractcolor_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/filter_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/rename_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable-v24/search_night.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/adjust.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/border.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/convert.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/filter.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/icompress.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/drawable/rename.xml" value="0.1725" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/layout/activity_convert.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/anike/AndroidStudioProjects/UI/app/src/main/res/layout/item_layout.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
